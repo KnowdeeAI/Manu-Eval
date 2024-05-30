@@ -1,3 +1,3 @@
 # Manu-Eval: A Chinese Language Understanding Benchmark for Manufacturing Industry
-Dataset will be released after last round of review.  
-We will also release a evaluation platform asap.
+Test set is released now. 
+** Note: ** No answer included. We will also release a evaluation platform asap.
